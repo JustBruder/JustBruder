@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  🖤💗💜
+</h1>
 
-<!--
-**JustBruder/JustBruder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/feito%20com-amor-ff69b4?style=for-the-badge" alt="Feito com amor"/>
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-8a2be2?style=for-the-badge"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ✨ Computer Engineering Undergraduate | JAVA | Python.
+Studying CyberSecurity. 💻🌙 <br>
+</p>
