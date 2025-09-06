@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-✨ Computer Engineering Undergraduate | Studying CyberSecurity. 💻🌙 <eng>
+✨ Computer Engineering Undergraduate | Studying CyberSecurity, Design UX & Data Analysis 💻🌙 <eng>
 </p>
 
 ---
