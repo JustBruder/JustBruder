@@ -2,69 +2,66 @@
 
   <h1>✨ JustBruder ✨</h1>
 
-  <p>
-    <img src="https://img.shields.io/badge/FEITO%20COM-AMOR-ff69b4?style=for-the-badge" alt="Feito com Amor" />
-    <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-7b2cbf?style=for-the-badge" alt="Status" />
-  </p>
+<img width="1280" height="368" alt="Sem título" src="https://github.com/user-attachments/assets/2b62669c-cbf3-4f3c-8d22-0f8a166e767a" />
 
-  <h3>Computer Engineering Undergraduate | DevSecOps & Backend Developer</h3>
 
-  <p><i>Engenharia de Computação focada no desenvolvimento backend seguro, automação de CI/CD e segurança de aplicações.</i></p>
+  <h3>Desenvolvedora Back-End & DevSecOps</h3>
+
+  <p><i> Focada em integrar a segurança ao ciclo de vida de desenvolvimento (SDLC) — do código ao deploy — através de automação e infraestrutura robusta.</i></p>
 
 </div>
 
 ---
 
 ### 💖 Sobre Mim
-- Graduanda em **Engenharia de Computação**.
-- Foco atual: **Desenvolvimento Backend** e integração de **Segurança em Pipelines (DevSecOps)**.
-- Explorando práticas de **SAST/DAST**, hardening de contêineres e arquitetura de microsserviços.
+Atuo na intersecção entre o desenvolvimento de aplicações back-end e a operação de esteiras de CI/CD seguras. Minha base técnica combina a construção de código confiável com a implementação proativa de controles de segurança e *Security by Design*.
 
+*   **Back-End:** Criação de APIs RESTful e aplicações em **Java** (POO) e **Python**.
+*   **DevSecOps & Infraestrutura:** Automação de pipelines com **GitHub Actions**, conteinerização escalável com **Docker** e gerenciamento de ambientes **Linux**.
+*   **Cibersegurança:** Aplicação de práticas de *menor privilégio*, gestão segura de credenciais (Secrets), automação de rotinas de segurança e noções de OWASP Top 10.
 ---
 
 ### 🌷 Tech Stack & Ferramentas
 
-#### Linguagens & Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<div align="center">
 
-#### DevSecOps, Infra & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
+### Linguagens & Back-End
+<img src="https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+### DevSecOps, Infra & CI/CD
+<img src="https://img.shields.io/badge/docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20actions-FF69B4?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
 
 ---
 
+<div align="center">
+
 ### Estatísticas do GitHub
 
-<div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JustBruder&theme=dracula" alt="GitHub Streak" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JustBruder&layout=compact&theme=dracula&hide=html,css" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JustBruder&theme=transparent&ring=ff69b4&fire=ff69b4&sideNums=ff69b4&dates=ffb6c1&border=ff69b4" alt="GitHub Streak" />
+  
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JustBruder&layout=compact&theme=dracula&title_color=ff69b4&text_color=ffb6c1&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
+
 </div>
 
 ---
 
 ### 💻 Contate-me / Let's Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/ingrid-bruder" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ibruder83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br/>
-  <sub><i>Sinta-se à vontade para entrar em contato para trocar ideias sobre DevSecOps, Backend ou oportunidades!</i></sub>
+
+<a href="https://www.linkedin.com/in/ingrid-bruder/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ibruder83@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
-
-<br/>
-
-<div align="center">
   <sub>Desenvolvido por Bruder 💻✨</sub>
 </div>
