@@ -36,6 +36,11 @@ Atuo na intersecção entre o desenvolvimento de aplicações back-end e a opera
 <img src="https://img.shields.io/badge/git-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions-FF69B4?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
+### IDEs e Utilitários
+![VS Code](https://img.shields.io/badge/VS%20CODE-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-FF69B4?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF69B4?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
@@ -44,10 +49,7 @@ Atuo na intersecção entre o desenvolvimento de aplicações back-end e a opera
 
 ### Estatísticas do GitHub
 
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JustBruder&theme=transparent&ring=ff69b4&fire=ff69b4&sideNums=ff69b4&dates=ffb6c1&border=ff69b4" alt="GitHub Streak" />
-  
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JustBruder&layout=compact&theme=dracula&title_color=ff69b4&text_color=ffb6c1&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
-
+<img height="180em" src="https://streak-stats.demolab.com/?user=JustBruder&theme=dracula&background=0D1117&border=FF79C6&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6"/>
 </div>
 
 ---
