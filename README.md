@@ -47,11 +47,6 @@ Atuo na intersecção entre o desenvolvimento de aplicações back-end e a opera
 
 <div align="center">
 
-### Estatísticas do GitHub
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=JustBruder&theme=dracula&background=0D1117&border=FF79C6&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6"/>
-</div>
-
 ---
 
 ### 💻 Contate-me / Let's Connect
