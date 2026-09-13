@@ -1,4 +1,4 @@
-ji<p align="center">
+<p align="center">
   <h1 align="center">✨ JustBruder ✨</h1>
 </p>
 
