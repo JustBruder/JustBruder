@@ -54,18 +54,6 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
 
 ---
 
-### Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justbruder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=justbruder&color=c71585&style=for-the-badge&label=VISITAS" alt="Visitor Count" />
-</p>
-
----
-
 ### 💻 Contate-me / Let's Connect
 <div align="center">
 
