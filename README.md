@@ -1,4 +1,4 @@
-<p align="center">
+ji<p align="center">
   <h1 align="center">✨ JustBruder ✨</h1>
 </p>
 
@@ -11,7 +11,7 @@
 
 ---
 
-### Sobre mim:
+### Sobre mim
 
 Atuo na interseção entre o desenvolvimento de aplicações back-end e a operação de esteiras de CI/CD seguras. Minha base técnica combina a construção de código confiável com a implementação proativa de controles de segurança e *Security by Design*.
 
@@ -33,7 +33,7 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
   <img src="https://img.shields.io/badge/JavaScript-C71585?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-#### DevSecOps, Infra, Cloud & Qualidade
+#### DevSecOps, Infra, Cloud & QA
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-C71585?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-C71585?style=for-the-badge&logo=linux&logoColor=white" />
@@ -55,14 +55,14 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
 ---
 
 ### 💻 Contate-me / Let's Connect
-<div align="center">
 
-<a href="https://www.linkedin.com/in/ingrid-bruder/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img
-<a href="mailto:ibruder83@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:ibruder83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-</div>
-  <sub>Desenvolvido por Bruder 💻✨</sub>
-</div>
+
+<p align="center">✦Desenvolvido por Bruder✦</p>
