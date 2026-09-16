@@ -64,5 +64,3 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
     <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">✦Desenvolvido por Bruder✦</p>
